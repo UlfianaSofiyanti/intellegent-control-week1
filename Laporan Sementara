@@ -1,0 +1,3 @@
+Progam ini dibuat untuk mendeteksi objek yang berwarna merah, biru, hijau, dan kuning menggunakan kamera laptop secara realtime, Hasil outputya menampilkan kotak yang berlabel nama warna objek yang terdeteksi
+Langkah awal yang dilakukan yaitu menginstal dan membuat beberapa akun profil sofware yaitu, VS Code, Git Base, GitHub, dan Kaggle. Kemudian sambungkan atau clone kan satu sama lain
+Untuk menampilkan output tersebut, saya menggunakan coding program yang saya running pada sofware VS Code dan Output nya terbuka pada pyton yang sudah terkloning dengan beberapa software yang sudah diunduh dan kamera laptop
